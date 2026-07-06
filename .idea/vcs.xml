@@ -2,6 +2,6 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/01 Numpy/100 Problems/numpy-100" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/01 Numpy/50 Problems/numpy-50" vcs="Git" />
   </component>
 </project>
