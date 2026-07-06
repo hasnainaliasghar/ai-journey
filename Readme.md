@@ -26,17 +26,17 @@
 
 ## 📌 Roadmap
 
-| # | Topic | Status |
-|---|-------|--------|
-| 01 | [Python Fundamentals](./01-python) | ✅ Completed |
-| 02 | [NumPy](./02-numpy) | 🟡 In Progress |
-| 03 | [Pandas](./03-pandas) | 🔲 Not Started |
-| 04 | [Matplotlib](./04-matplotlib) | 🔲 Not Started |
-| 05 | [Machine Learning](./05-machine-learning) | 🔲 Not Started |
-| 06 | [Deep Learning](./06-deep-learning) | 🔲 Not Started |
-| 07 | [Computer Vision](./07-computer-vision) | 🔲 Not Started |
-| 08 | [Natural Language Processing](./08-natural-language-processing) | 🔲 Not Started |
-| 09 | [Generative AI](./09-generative-ai) | 🔲 Not Started |
+| #  | Topic                                                           | Status |
+|----|-----------------------------------------------------------------|--------|
+| 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
+| 01 | [NumPy](./01-numpy)                                             | 🟡 In Progress |
+| 02 | [Pandas](./03-pandas)                                           | 🔲 Not Started |
+| 03 | [Matplotlib](./04-matplotlib)                                   | 🔲 Not Started |
+| 04 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
+| 05 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
+| 06 | [Computer Vision](./07-computer-vision)                         | 🔲 Not Started |
+| 07 | [Natural Language Processing](./08-natural-language-processing) | 🔲 Not Started |
+| 08 | [Generative AI](./09-generative-ai)                             | 🔲 Not Started |
 
 **Status legend:** 🔲 Not Started · 🟡 In Progress · ✅ Completed
 
@@ -47,15 +47,14 @@
 ```
 ai-journey/
 │
-├── 01-python/                       # Core Python syntax, OOP, data structures
-├── 02-numpy/                        # Arrays, vectorization, linear algebra basics
-├── 03-pandas/                       # Data wrangling, cleaning, EDA
-├── 04-matplotlib/                   # Data visualization & plotting
-├── 05-machine-learning/             # Regression, classification, clustering, sklearn
-├── 06-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
-├── 07-computer-vision/              # CNNs, image processing, OpenCV
-├── 08-natural-language-processing/  # Text processing, embeddings, transformers
-├── 09-generative-ai/                # LLMs, diffusion models, GenAI apps
+├── 01-numpy/                        # Arrays, vectorization, linear algebra basics
+├── 02-pandas/                       # Data wrangling, cleaning, EDA
+├── 03-matplotlib/                   # Data visualization & plotting
+├── 04-machine-learning/             # Regression, classification, clustering, sklearn
+├── 05-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
+├── 06-computer-vision/              # CNNs, image processing, OpenCV
+├── 07-natural-language-processing/  # Text processing, embeddings, transformers
+├── 08-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
 ├── datasets/                        # Raw & processed datasets used across topics
 ├── notebooks/                       # Jupyter notebooks for experiments & practice
