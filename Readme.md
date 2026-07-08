@@ -29,8 +29,8 @@
 | #  | Topic                                                           | Status |
 |----|-----------------------------------------------------------------|--------|
 | 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
-| 01 | [NumPy](./01-numpy)                                             | 🟡 In Progress |
-| 02 | [Pandas](./03-pandas)                                           | 🔲 Not Started |
+| 01 | [NumPy](./01-numpy)                                             | ✅ Completed |
+| 02 | [Pandas](./03-pandas)                                           | 🟡 In Progress |
 | 03 | [Matplotlib](./04-matplotlib)                                   | 🔲 Not Started |
 | 04 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
 | 05 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
