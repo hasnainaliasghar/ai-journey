@@ -29,8 +29,8 @@
 | #  | Topic                                                           | Status |
 |----|-----------------------------------------------------------------|--------|
 | 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
-| 01 | [NumPy]([./01-numpy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy))                                             | ✅ Completed |
-| 02 | [Pandas]([./03-pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas))                                           | 🟡 In Progress |
+| 01 | [NumPy]((https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy))                                             | ✅ Completed |
+| 02 | [Pandas]((https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas))                                           | 🟡 In Progress |
 | 03 | [Plots](./04-matplotlib)                                   | 🔲 Not Started |
 | 04 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
 | 05 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
