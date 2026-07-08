@@ -29,9 +29,9 @@
 | #  | Topic                                                           | Status |
 |----|-----------------------------------------------------------------|--------|
 | 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
-| 01 | [NumPy](./01-numpy)                                             | ✅ Completed |
-| 02 | [Pandas](./03-pandas)                                           | 🟡 In Progress |
-| 03 | [Matplotlib](./04-matplotlib)                                   | 🔲 Not Started |
+| 01 | [NumPy]([./01-numpy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy))                                             | ✅ Completed |
+| 02 | [Pandas]([./03-pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas))                                           | 🟡 In Progress |
+| 03 | [Plots](./04-matplotlib)                                   | 🔲 Not Started |
 | 04 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
 | 05 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
 | 06 | [Computer Vision](./07-computer-vision)                         | 🔲 Not Started |
@@ -49,7 +49,7 @@ ai-journey/
 │
 ├── 01-numpy/                        # Arrays, vectorization, linear algebra basics
 ├── 02-pandas/                       # Data wrangling, cleaning, EDA
-├── 03-matplotlib/                   # Data visualization & plotting
+├── 03-Plots/                        # Data visualization & plotting -> Matplotlib - Seaborn - Plotly
 ├── 04-machine-learning/             # Regression, classification, clustering, sklearn
 ├── 05-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
 ├── 06-computer-vision/              # CNNs, image processing, OpenCV
