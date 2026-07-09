@@ -56,8 +56,6 @@ ai-journey/
 ├── 07-natural-language-processing/  # Text processing, embeddings, transformers
 ├── 08-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
-├── datasets/                        # Raw & processed datasets used across topics
-├── notebooks/                       # Jupyter notebooks for experiments & practice
 ├── projects/                        # End-to-end mini/major projects
 └── README.md                        # You are here
 ```
@@ -81,14 +79,6 @@ ai-journey/
 `Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `PyTorch` / `TensorFlow` · `OpenCV` · `Hugging Face` · `Jupyter`
 
 ---
-
-## 📚 Datasets
-
-All datasets used throughout this journey live in [`/datasets`](./datasets), with sources and licenses noted per folder.
-
-## 🧪 Notebooks
-
-Exploratory and practice notebooks live in [`/notebooks`](./notebooks) — one folder per topic, matching the numbered directories above.
 
 ## 💡 Projects
 
