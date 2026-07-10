@@ -31,7 +31,7 @@
 | 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
 | 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)                                             | ✅ Completed |
 | 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)                                           | 🟡 In Progress |
-| 03 | [Plots](./04-matplotlib)                                   | 🟡 In Progress |
+| 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)                                   | 🟡 In Progress |
 | 04 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
 | 05 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
 | 06 | [Computer Vision](./07-computer-vision)                         | 🔲 Not Started |
@@ -56,8 +56,6 @@ ai-journey/
 ├── 07-natural-language-processing/  # Text processing, embeddings, transformers
 ├── 08-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
-├── datasets/                        # Raw & processed datasets used across topics
-├── notebooks/                       # Jupyter notebooks for experiments & practice
 ├── projects/                        # End-to-end mini/major projects
 └── README.md                        # You are here
 ```
@@ -81,14 +79,6 @@ ai-journey/
 `Python` · `NumPy` · `Pandas` · `Matplotlib` · `Scikit-learn` · `PyTorch` / `TensorFlow` · `OpenCV` · `Hugging Face` · `Jupyter`
 
 ---
-
-## 📚 Datasets
-
-All datasets used throughout this journey live in [`/datasets`](./datasets), with sources and licenses noted per folder.
-
-## 🧪 Notebooks
-
-Exploratory and practice notebooks live in [`/notebooks`](./notebooks) — one folder per topic, matching the numbered directories above.
 
 ## 💡 Projects
 
