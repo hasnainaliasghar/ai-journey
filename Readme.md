@@ -32,7 +32,7 @@
 | 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)                                             | ✅ Completed |
 | 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)                                           | 🟡 In Progress |
 | 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)                                   | 🟡 In Progress |
-| 04 | [Maths]((https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths))                                   | 🟡 In Progress |
+| 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)                                   | 🟡 In Progress |
 | 05 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
 | 06 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
 | 07 | [Computer Vision](./07-computer-vision)                         | 🔲 Not Started |
