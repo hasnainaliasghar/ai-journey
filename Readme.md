@@ -26,18 +26,19 @@
 
 ## 📌 Roadmap
 
-| #  | Topic                                                           | Status |
-|----|-----------------------------------------------------------------|--------|
-| 00 | [Python Fundamentals](./01-python)                              | ✅ Completed |
-| 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)                                             | ✅ Completed |
-| 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)                                           | 🟡 In Progress |
-| 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)                                   | 🟡 In Progress |
-| 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)                                   | 🟡 In Progress |
-| 05 | [Machine Learning](./05-machine-learning)                       | 🔲 Not Started |
-| 06 | [Deep Learning](./06-deep-learning)                             | 🔲 Not Started |
-| 07 | [Computer Vision](./07-computer-vision)                         | 🔲 Not Started |
-| 08 | [Natural Language Processing](./08-natural-language-processing) | 🔲 Not Started |
-| 09 | [Generative AI](./09-generative-ai)                             | 🔲 Not Started |
+| #  | Topic                                                                              | Status |
+|----|------------------------------------------------------------------------------------|--------|
+| 00 | [Python Fundamentals](./01-python)                                                 | ✅ Completed |
+| 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)       | ✅ Completed |
+| 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)     | ✅ Completed |
+| 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)       |✅ Completed |
+| 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)       | ✅ Completed |
+| 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | 🟡 In Progress |
+| 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)                                          | 🟡 In Progress |
+| 07 | [Deep Learning](./06-deep-learning)                                                | 🔲 Not Started |
+| 08 | [Computer Vision](./07-computer-vision)                                            | 🔲 Not Started |
+| 09 | [Natural Language Processing](./08-natural-language-processing)                    | 🔲 Not Started |
+| 10 | [Generative AI](./09-generative-ai)                                                | 🔲 Not Started |
 
 **Status legend:** 🔲 Not Started · 🟡 In Progress · ✅ Completed
 
@@ -51,11 +52,13 @@ ai-journey/
 ├── 01-numpy/                        # Arrays, vectorization, linear algebra basics
 ├── 02-pandas/                       # Data wrangling, cleaning, EDA
 ├── 03-Plots/                        # Data visualization & plotting -> Matplotlib - Seaborn - Plotly
-├── 04-machine-learning/             # Regression, classification, clustering, sklearn
-├── 05-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
-├── 06-computer-vision/              # CNNs, image processing, OpenCV
-├── 07-natural-language-processing/  # Text processing, embeddings, transformers
-├── 08-generative-ai/                # LLMs, diffusion models, GenAI apps
+├── 04-Maths/                        # Statistics, Probability, Linear Algebra
+├── 05-EDA/                          # End-to-End Project
+├── 06-machine-learning/             # Regression, classification, clustering, sklearn
+├── 07-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
+├── 08-computer-vision/              # CNNs, image processing, OpenCV
+├── 09-natural-language-processing/  # Text processing, embeddings, transformers
+├── 10-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
 ├── projects/                        # End-to-end mini/major projects
 └── README.md                        # You are here
