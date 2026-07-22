@@ -77,6 +77,8 @@ A structured index of minor and major projects completed as part of an ongoing A
 | # | Project | Description |
 |---|---------|-------------|
 | 1 | [Online Retail Analysis](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | End-to-end EDA on an online retail dataset |
+| 2 | [Death Analysis involving Poline in United States](https://github.com/hasnainaliasghar/Analyse-Deaths-involving-Police-in-the-United-States---DataScience-Project) | End-to-end EDA on an Death Analysis in U.S.|
+| 3 | [Space Mission Analysis](https://github.com/hasnainaliasghar/SpaceMissionAnalysis-DataScience) | End-to-end EDA on an Space Mission dataset by NASA|
 
 ---
 
