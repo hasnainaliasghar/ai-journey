@@ -86,7 +86,7 @@ ai-journey/
 
 ## 💡 Projects
 
-Full end-to-end builds live in [`/projects`](./projects), each with its own README covering problem, approach, and results.
+Full end-to-end builds live in [`/projects`](https://github.com/hasnainaliasghar/ai-journey/blob/main/Projects/Projects.md), each with its own README covering problem, approach, and results.
 
 ---
 
