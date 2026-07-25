@@ -84,9 +84,10 @@ A structured index of minor and major projects completed as part of an ongoing A
 
 ## Machine Learning
 
-| # | Project | Description |
-|---|---------|-------------|
-| 1 | [Fun End-to-End Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%2013%20End-to-End%20Project) | Complete end-to-end machine learning pipeline |
+| # | Project                                                                                                                                        | Description                               |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
+| 1 | [Fun End-to-End Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2013%20End-to-End%20Project) | Complete end-to-end machine learning      |
+| 2 | [Titanic Piplines](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2029%20Pipelines)           | Created Pipelines for Survival in Titanic |
 
 ---
 
