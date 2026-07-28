@@ -87,7 +87,9 @@ A structured index of minor and major projects completed as part of an ongoing A
 | # | Project                                                                                                                                        | Description                               |
 |---|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
 | 1 | [Fun End-to-End Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2013%20End-to-End%20Project) | Complete end-to-end machine learning      |
-| 2 | [Titanic Piplines](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2029%20Pipelines)           | Created Pipelines for Survival in Titanic |
+| 2 | [Titanic Piplines](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2029%20Pipelines)                  | Created Pipelines for Survival in Titanic |
+| 3 | [Covid-Prediction](https://www.kaggle.com/code/hasnainaliasghar941/covid-prediction)                                                           | Predicts death rate                       |
+| 4 | [Power Transformation](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2031%20Power%20Transformer)              | Concrete Strength Prediction              |
 
 ---
 
