@@ -84,13 +84,14 @@ A structured index of minor and major projects completed as part of an ongoing A
 
 ## Machine Learning
 
-| #  | Project                                                                                                                                        | Description                               |
-|----|------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------|
-| 1  | [Fun End-to-End Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2013%20End-to-End%20Project) | Complete end-to-end machine learning      |
-| 2  | [Titanic Piplines](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2029%20Pipelines)                  | Created Pipelines for Survival in Titanic |
-| 3  | [Covid-Prediction](https://www.kaggle.com/code/hasnainaliasghar941/covid-prediction)                                                           | Predicts death rate                       |
-| 4  | [Power Transformation](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2031%20Power%20Transformer)    | Concrete Strength Prediction              |
-| 5  | [Adult Census Income](https://www.kaggle.com/code/hasnainaliasghar941/adult-census-income)|Built a machine learning pipeline to predict whether an individual's annual income exceeds $50K using the Adult Census Income dataset.|
+| # | Project                                                                                                                                        | Description                                                                                                                            |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Fun End-to-End Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2013%20End-to-End%20Project) | Complete end-to-end machine learning                                                                                                   |
+| 2 | [Titanic Piplines](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2029%20Pipelines)                  | Created Pipelines for Survival in Titanic                                                                                              |
+| 3 | [Covid-Prediction](https://www.kaggle.com/code/hasnainaliasghar941/covid-prediction)                                                           | Predicts death rate                                                                                                                    |
+| 4 | [Power Transformation](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2031%20Power%20Transformer)    | Concrete Strength Prediction                                                                                                           |
+| 5 | [Adult Census Income](https://www.kaggle.com/code/hasnainaliasghar941/adult-census-income)| Built a machine learning pipeline to predict whether an individual's annual income exceeds $50K using the Adult Census Income dataset. |
+| 6 | [Digit Recognizer - Model](https://www.kaggle.com/code/hasnainaliasghar941/digit-recognizer-model)| take an image of a handwritten single digit, and determine what that digit is.                                                         |
 
 ---
 
