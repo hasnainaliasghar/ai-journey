@@ -60,6 +60,8 @@ ai-journey/
 ├── 09-natural-language-processing/  # Text processing, embeddings, transformers
 ├── 10-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
+├── Datsets/                         # Contains Datsets files used in repo
+├── Notes/                           # OneNotes of all the learnings done
 ├── projects/                        # End-to-end mini/major projects
 └── README.md                        # You are here
 ```
