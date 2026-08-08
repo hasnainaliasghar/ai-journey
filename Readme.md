@@ -33,7 +33,7 @@
 | 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)     | ✅ Completed |
 | 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)       |✅ Completed |
 | 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)       | ✅ Completed |
-| 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | 🟡 In Progress |
+| 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | ✅ Completed |
 | 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)                                          | 🟡 In Progress |
 | 07 | [Deep Learning](./06-deep-learning)                                                | 🔲 Not Started |
 | 08 | [Computer Vision](./07-computer-vision)                                            | 🔲 Not Started |
