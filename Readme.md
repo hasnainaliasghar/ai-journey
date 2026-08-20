@@ -34,8 +34,8 @@
 | 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)       |✅ Completed |
 | 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)       | ✅ Completed |
 | 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | ✅ Completed |
-| 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)                                          | 🟡 In Progress |
-| 07 | [Deep Learning](./06-deep-learning)                                                | 🔲 Not Started |
+| 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)                                          | ✅ Completed |
+| 07 | [Deep Learning](./06-deep-learning)                                                | 🟡 In Progress  |
 | 08 | [Computer Vision](./07-computer-vision)                                            | 🔲 Not Started |
 | 09 | [Natural Language Processing](./08-natural-language-processing)                    | 🔲 Not Started |
 | 10 | [Generative AI](./09-generative-ai)                                                | 🔲 Not Started |
