@@ -26,19 +26,20 @@
 
 ## 📌 Roadmap
 
-| #  | Topic                                                                              | Status |
-|----|------------------------------------------------------------------------------------|--------|
-| 00 | [Python Fundamentals](./01-python)                                                 | ✅ Completed |
-| 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)       | ✅ Completed |
-| 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)     | ✅ Completed |
-| 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)       |✅ Completed |
-| 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)       | ✅ Completed |
-| 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA) | ✅ Completed |
-| 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)                                          | ✅ Completed |
-| 07 | [Deep Learning](./06-deep-learning)                                                | 🟡 In Progress  |
-| 08 | [Computer Vision](./07-computer-vision)                                            | 🔲 Not Started |
-| 09 | [Natural Language Processing](./08-natural-language-processing)                    | 🔲 Not Started |
-| 10 | [Generative AI](./09-generative-ai)                                                | 🔲 Not Started |
+| #  | Topic                                                                                                      | Status |
+|----|------------------------------------------------------------------------------------------------------------|--------|
+| 00 | [Python Fundamentals](./01-python)                                                                         | ✅ Completed |
+| 01 | [NumPy](https://github.com/hasnainaliasghar/ai-journey/tree/main/01%20Numpy)                               | ✅ Completed |
+| 02 | [Pandas](https://github.com/hasnainaliasghar/ai-journey/tree/main/02%20Pandas)                             | ✅ Completed |
+| 03 | [Plots](https://github.com/hasnainaliasghar/ai-journey/tree/main/03%20Plots)                               |✅ Completed |
+| 04 | [Maths](https://github.com/hasnainaliasghar/ai-journey/tree/main/04%20Maths)                               | ✅ Completed |
+| 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA)                           | ✅ Completed |
+| 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)       | ✅ Completed |
+| 07 | [NLP (Machine Learning)](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning) | ✅ Completed |
+| 08 | [Deep Learning](./06-deep-learning)                                                                        | 🟡 In Progress  |
+| 09 | [Computer Vision](./07-computer-vision)                                                                    | 🔲 Not Started |
+| 10 | [Natural Language Processing](./08-natural-language-processing)                                            | 🔲 Not Started |
+| 11 | [Generative AI](./09-generative-ai)                                                                        | 🔲 Not Started |
 
 **Status legend:** 🔲 Not Started · 🟡 In Progress · ✅ Completed
 
@@ -55,6 +56,7 @@ ai-journey/
 ├── 04-Maths/                        # Statistics, Probability, Linear Algebra
 ├── 05-EDA/                          # End-to-End Project
 ├── 06-machine-learning/             # Regression, classification, clustering, sklearn
+├── 07-NLP(Machine Learning)/        # Natural language processing project in Machine Learning
 ├── 07-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
 ├── 08-computer-vision/              # CNNs, image processing, OpenCV
 ├── 09-natural-language-processing/  # Text processing, embeddings, transformers
