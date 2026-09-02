@@ -1,7 +1,7 @@
 import streamlit as st
 import joblib
 
-model = joblib.load("C:\\Users\\hasnain ali\\Desktop\\ai-journey\\07 NLP (Machine Learning)\\emotion_model.pkl")
+model = joblib.load("emotion_model.pkl")
 
 st.title("🧠 EmotionAI")
 st.write("Discover the emotion behind your words.")
