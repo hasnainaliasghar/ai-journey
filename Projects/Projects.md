@@ -92,7 +92,9 @@ A structured index of minor and major projects completed as part of an ongoing A
 | 4 | [Power Transformation](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Day%20-%2031%20Power%20Transformer)    | Concrete Strength Prediction                                                                                                           |
 | 5 | [Adult Census Income](https://www.kaggle.com/code/hasnainaliasghar941/adult-census-income)| Built a machine learning pipeline to predict whether an individual's annual income exceeds $50K using the Adult Census Income dataset. |
 | 6 | [Digit Recognizer - Model](https://www.kaggle.com/code/hasnainaliasghar941/digit-recognizer-model)| take an image of a handwritten single digit, and determine what that digit is.                                                         |
-| 7 | [Guessy — Machine Learning Mind Reader](https://github.com/hasnainaliasghar/Guessy)| A machine learning-powered "guess who" game that reads your mind through yes/no questions using a decision tree classifier. Answer a few playful prompts and Guessy narrows down the exact character you're thinking of.                                                         |
+| 7 | [Guessy — Machine Learning Mind Reader](https://github.com/hasnainaliasghar/Guessy)| A machine learning-powered "guess who" game that reads your mind through yes/no questions using a decision tree classifier. Answer a few playful prompts and Guessy narrows down the exact character you're thinking of.   |
+| 8 | [EmotionAi — NLP Machine Learning](https://github.com/hasnainaliasghar/EmotionAI-NLP-ML-Project)| A machine-learning web app that detects emotions from text using a TF-IDF + Logistic Regression pipeline. |
+
 ---
 
 *Repository: [ai-journey](https://github.com/hasnainaliasghar/ai-journey)*
