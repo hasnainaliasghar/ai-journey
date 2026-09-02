@@ -1,7 +1,10 @@
 import streamlit as st
+from pathlib import Path
 import joblib
 
-model = joblib.load("emotion_model.pkl")
+BASE_DIR = Path(__file__).resolve().parent
+
+model = joblib.load(BASE_DIR / "emotion_model.pkl")
 
 st.title("🧠 EmotionAI")
 st.write("Discover the emotion behind your words.")
