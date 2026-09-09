@@ -1,0 +1,241 @@
+<!doctype html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="static/css/style.css">
+    <title>Car Price Predictor</title>
+  </head>
+
+  <body class="bg-gray-100">
+
+    <div class="container">
+      <div class="row">
+
+        <div class="card mt-50" style="width: 100%; height: 100%;">
+
+          <div class="card-header">
+            <div class="col-12" style="text-align: center;">
+              <h1>Welcome to Car Price Predictor</h1>
+            </div>
+          </div>
+
+          <div class="card-body">
+
+            <form method="post" accept-charset="utf-8">
+
+              <!-- Company -->
+              <div class="col-10 form-group" style="text-align: center;">
+                <label><b>Select Company</b></label>
+
+                <select
+                  class="selecypicker form-control"
+                  id="company"
+                  name="company"
+                  required
+                  onchange="load_car_models(this.value)"
+                >
+
+                  <option value="" selected disabled>Select Company</option>
+
+                  {% for company in companies %}
+                    <option value="{{ company }}">{{ company }}</option>
+                  {% endfor %}
+
+                </select>
+              </div>
+
+
+              <!-- Model -->
+              <div class="col-10 form-group" style="text-align: center;">
+                <label><b>Select Model</b></label>
+
+                <select
+                  class="selecypicker form-control"
+                  id="model"
+                  name="model"
+                  required
+                >
+
+                  <option value="" selected disabled>Select Model</option>
+
+                </select>
+              </div>
+
+
+              <!-- Year -->
+              <div class="col-10 form-group" style="text-align: center;">
+                <label><b>Select Year</b></label>
+
+                <select
+                  class="selecypicker form-control"
+                  id="year"
+                  name="year"
+                  required
+                >
+
+                  <option value="" selected disabled>Select Year</option>
+
+                  {% for year in years %}
+                    <option value="{{ year }}">{{ year }}</option>
+                  {% endfor %}
+
+                </select>
+              </div>
+
+
+              <!-- Fuel Type -->
+              <div class="col-10 form-group" style="text-align: center;">
+                <label><b>Select Fuel Type</b></label>
+
+                <select
+                  class="selecypicker form-control"
+                  id="fuel_type"
+                  name="fuel_type"
+                  required
+                >
+
+                  <option value="" selected disabled>Select Fuel Type</option>
+
+                  {% for fuel_type in fuel_types %}
+                    <option value="{{ fuel_type }}">{{ fuel_type }}</option>
+                  {% endfor %}
+
+                </select>
+              </div>
+
+
+              <!-- Kilometers Driven -->
+              <div class="col-10 form-group" style="text-align: center;">
+                <label><b>Enter Kms Driven</b></label>
+
+                <input
+                  type="text"
+                  class="form-control"
+                  id="kms_driven"
+                  name="kms_driven"
+                  placeholder="Enter no. of Kilometers"
+                  required
+                >
+              </div>
+
+
+              <!-- Predict Button -->
+              <button
+                type="submit"
+                class="btn btn-primary form-control"
+              >
+                Predict Price
+              </button>
+
+            </form>
+
+             <br>
+            <div class="row">
+                <div class="col-12" style="text-align: center">
+                    <h4><span id="prediction"></span></h4>
+              </div>
+            </div>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </div>
+
+
+    <script>
+
+    function load_car_models(company) {
+
+        var modelSelect = document.getElementById("model");
+
+        modelSelect.innerHTML = "";
+
+        if (company === "") {
+
+            var defaultOption = document.createElement("option");
+
+            defaultOption.value = "";
+            defaultOption.text = "Select Model";
+            defaultOption.disabled = true;
+            defaultOption.selected = true;
+
+            modelSelect.appendChild(defaultOption);
+
+            return;
+        }
+
+        {% for company_name in companies %}
+
+            if (company === "{{ company_name }}") {
+
+                {% for model in car_model %}
+
+                    {% if company_name in model %}
+
+                        var option = document.createElement("option");
+
+                        option.value = "{{ model }}";
+                        option.text = "{{ model }}";
+
+                        modelSelect.appendChild(option);
+
+                    {% endif %}
+
+                {% endfor %}
+
+            }
+
+        {% endfor %}
+    }
+
+
+
+
+    function send_data(event) {
+
+        // Stop the browser from opening a new page
+        event.preventDefault();
+
+        var form = document.querySelector("form");
+        var fd = new FormData(form);
+
+        var xhr = new XMLHttpRequest();
+
+        xhr.open("POST", "/predict", true);
+
+        // Show loading message
+        document.getElementById("prediction").innerHTML = "Predicting...";
+
+        xhr.onreadystatechange = function() {
+
+            if (xhr.readyState === XMLHttpRequest.DONE) {
+
+                if (xhr.status === 200) {
+
+                    // Show prediction on the SAME page
+                    document.getElementById("prediction").innerHTML =
+                        xhr.responseText;
+
+                } else {
+
+                    document.getElementById("prediction").innerHTML =
+                        "Something went wrong. Please try again.";
+
+                }
+            }
+        };
+
+        // Send form data to Flask
+        xhr.send(fd);
+    }
+
+    // Hook up the AJAX handler so the form no longer does a normal submit
+    document.querySelector("form").addEventListener("submit", send_data);
+
+    </script>
+
+  </body>
+</html>
