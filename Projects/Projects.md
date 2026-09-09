@@ -94,7 +94,7 @@ A structured index of minor and major projects completed as part of an ongoing A
 | 6 | [Digit Recognizer - Model](https://www.kaggle.com/code/hasnainaliasghar941/digit-recognizer-model)                                             | take an image of a handwritten single digit, and determine what that digit is.                                                         |
 | 7 | [Guessy — Machine Learning Mind Reader](https://github.com/hasnainaliasghar/Guessy)                                                            | A machine learning-powered "guess who" game that reads your mind through yes/no questions using a decision tree classifier. Answer a few playful prompts and Guessy narrows down the exact character you're thinking of.   |
 | 8 | [EmotionAi — NLP Machine Learning](https://github.com/hasnainaliasghar/EmotionAI-NLP-ML-Project)                                               | A machine-learning web app that detects emotions from text using a TF-IDF + Logistic Regression pipeline. |
-| 9 | [Car Price Predictor](https://github.com/hasnainaliasghar/EmotionAI-NLP-ML-Project)                                                            | A Flask web app that predicts a used car's price from its company, model, year, fuel type, and kilometers driven, using a trained linear regression model. |
+| 9 | [Car Price Predictor](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning/Projects/Car%20Price%20Predictor)                                                            | A Flask web app that predicts a used car's price from its company, model, year, fuel type, and kilometers driven, using a trained linear regression model. |
 
 
 ---
