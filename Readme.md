@@ -36,8 +36,8 @@
 | 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA)                           | ✅ Completed |
 | 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)       | ✅ Completed |
 | 07 | [NLP (Machine Learning)](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning) | ✅ Completed |
-| 08 | [Pytorch](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch)                           | ✅ Completed |
-| 09 | [Deep Learning](./06-deep-learning)                                                                        | 🟡 In Progress  |
+| 08 | [Pytorch](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch)                           | 🟡 In Progress |
+| 09 | [Deep Learning](./06-deep-learning)                                                                        | 🟡 In Progress |
 | 10 | [Computer Vision](./07-computer-vision)                                                                    | 🔲 Not Started |
 | 11 | [Natural Language Processing](./08-natural-language-processing)                                            | 🔲 Not Started |
 | 12 | [Generative AI](./09-generative-ai)                                                                        | 🔲 Not Started |
