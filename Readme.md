@@ -36,10 +36,11 @@
 | 05 | [EDA-Project](https://github.com/hasnainaliasghar/ai-journey/tree/main/05%20EDA)                           | ✅ Completed |
 | 06 | [Machine Learning](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning)       | ✅ Completed |
 | 07 | [NLP (Machine Learning)](https://github.com/hasnainaliasghar/ai-journey/tree/main/06%20Machine%20Learning) | ✅ Completed |
-| 08 | [Deep Learning](./06-deep-learning)                                                                        | 🟡 In Progress  |
-| 09 | [Computer Vision](./07-computer-vision)                                                                    | 🔲 Not Started |
-| 10 | [Natural Language Processing](./08-natural-language-processing)                                            | 🔲 Not Started |
-| 11 | [Generative AI](./09-generative-ai)                                                                        | 🔲 Not Started |
+| 08 | [Pytorch](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch)                           | ✅ Completed |
+| 09 | [Deep Learning](./06-deep-learning)                                                                        | 🟡 In Progress  |
+| 10 | [Computer Vision](./07-computer-vision)                                                                    | 🔲 Not Started |
+| 11 | [Natural Language Processing](./08-natural-language-processing)                                            | 🔲 Not Started |
+| 12 | [Generative AI](./09-generative-ai)                                                                        | 🔲 Not Started |
 
 **Status legend:** 🔲 Not Started · 🟡 In Progress · ✅ Completed
 
@@ -57,10 +58,11 @@ ai-journey/
 ├── 05-EDA/                          # End-to-End Project
 ├── 06-machine-learning/             # Regression, classification, clustering, sklearn
 ├── 07-NLP(Machine Learning)/        # Natural language processing project in Machine Learning
-├── 07-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
-├── 08-computer-vision/              # CNNs, image processing, OpenCV
-├── 09-natural-language-processing/  # Text processing, embeddings, transformers
-├── 10-generative-ai/                # LLMs, diffusion models, GenAI apps
+├── 08-Pytorch/                      # Concepts of Pytorch
+├── 09-deep-learning/                # Neural nets, backprop, PyTorch/TensorFlow
+├── 10-computer-vision/              # CNNs, image processing, OpenCV
+├── 11-natural-language-processing/  # Text processing, embeddings, transformers
+├── 12-generative-ai/                # LLMs, diffusion models, GenAI apps
 │
 ├── Datsets/                         # Contains Datsets files used in repo
 ├── Notes/                           # OneNotes of all the learnings done
