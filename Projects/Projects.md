@@ -99,4 +99,14 @@ A structured index of minor and major projects completed as part of an ongoing A
 
 ---
 
+## Deep Learning
+
+| # | Project                                                                                                                                        | Description                                                                                                                            |
+|---|------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------|
+| 1 | [Kaggle Notebook-Fashion Mnist Model Training - CNN](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch/CNN) | Fashion Mnist Model Training - CNN | 
+| 2 | [Kaggle Notebook-Fashion Mnist Model Training - ANN](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch/ANN) | Fashion Mnist Model Training - ANN |
+| 3 | [QA Predictor - RNN](https://github.com/hasnainaliasghar/ai-journey/tree/main/08%20Pytorch/RNN) | Predicts answer of the specific questions|
+
+---
+
 *Repository: [ai-journey](https://github.com/hasnainaliasghar/ai-journey)*
